@@ -1,0 +1,2 @@
+title,2002,2.2,directorName,note
+kula,2002,2.2,fos,szar
